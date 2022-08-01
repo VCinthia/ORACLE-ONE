@@ -7,4 +7,4 @@
   - CURRICULUM VITAE
   - E-COMMERCE
 • JAVA:
-  - 
+  - PROYECTO
